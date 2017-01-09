@@ -26,3 +26,10 @@ Allstate is currently developing automated methods of predicting the cost, and h
 - Stacking (Xgboost)
 - Weighted Average
 
+## Tools
+- Numpy
+- Pandas
+- Scipy
+- Sklearn
+- Xgboost
+- Keras
