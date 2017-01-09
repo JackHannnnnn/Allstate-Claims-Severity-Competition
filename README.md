@@ -33,3 +33,4 @@ Allstate is currently developing automated methods of predicting the cost, and h
 - Sklearn
 - Xgboost
 - Keras
+- Bayesian Optimzation: https://github.com/fmfn/BayesianOptimization/blob/master/examples/xgboost_example.py
